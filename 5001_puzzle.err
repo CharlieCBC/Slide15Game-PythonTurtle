@@ -1,0 +1,5 @@
+Fri Dec 09 10:09:03 2022:Error: Could not open leaderboard.txt. LOCATION: Game.read_leaderboard_file()
+Fri Dec 09 10:09:40 2022:Error: File None does not exist LOCATION: Game.load_new_puzzle()
+Fri Dec 09 10:09:47 2022:Error: File asd does not exist LOCATION: Game.load_new_puzzle()
+Fri Dec 09 10:09:52 2022:Error: File mario does not exist LOCATION: Game.load_new_puzzle()
+Mon Dec 18 19:13:32 2023:Error: File None does not exist LOCATION: Game.load_new_puzzle()

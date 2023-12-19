@@ -1,0 +1,6 @@
+The program consists of three classes: Image, Button, and Game.
+Image is a class inherited from Turtle to use all turtle properties, the purpose of the Image class is to set turtle position and shape through the constructor.
+Button is a class that makes the Image clickable and executes the callback when it got clicked. 
+The Game is the main class of this program, it handles all gameplay logic, data loading, interaction, and visual interface of the game.
+In the constructor method of the game, a splash screen is shown, and the progeam asks the player for the Name and number of moves. Then it load mario.puz from the folder and draw the interface. After that, a main loop update turtle while game over is not over.
+After that, any changes on the interface are caused by the turtle on click event callback.
